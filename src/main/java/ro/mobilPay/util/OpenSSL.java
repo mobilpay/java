@@ -29,7 +29,7 @@ import org.bouncycastle.jce.provider.X509CertificateObject;
 import org.bouncycastle.openssl.PEMKeyPair;
 import org.bouncycastle.openssl.PEMParser;
 import org.bouncycastle.util.encoders.Base64;
-import sun.security.util.Pem;
+// import sun.security.util.Pem;
 
 
 public class OpenSSL {
